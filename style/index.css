@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Iosevka';
+    src: url(../fonts/Iosevka\ Bold\ Nerd\ Font\ Complete.ttf);
+  }
+* {
+    background-color: #333;
+    color: white;
+    font-family: 'Iosevka', sans-serif;
+}
+.center {
+    text-align: center;
+}
+.text-pink {
+    color: #db6bc6;
+}
+.text-white {
+    color: whitesmoke;
+}
+.text-cyan {
+    color: cyan;
+}
+.invisible {
+    border: none;
+    outline: none;
+}
+a {
+    color: lightskyblue;
+}
